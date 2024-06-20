@@ -1,5 +1,5 @@
 ## Note
-This is a modified version of the [Galah](https://github.com/0x4D31/galah?tab=readme-ov-file) open-source repository used for practice in CyberEurope 2024 between the University of Adelaide and Talinn University of Technology. Below is the readme file used by them.
+This is a modified version of the [Galah](https://github.com/0x4D31/galah?tab=readme-ov-file) open-source repository used for practice in CyberEurope 2024 between the University of Adelaide and Talinn University of Technology. Below is the readme file used by the official repository.
 
 <img align="left" src="docs/images/galah.png" width="200px">
 
