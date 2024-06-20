@@ -5,4 +5,5 @@
 *.pem
 *.json
 *.db
+.env
 /bin

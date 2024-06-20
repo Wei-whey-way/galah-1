@@ -1,3 +1,6 @@
+## Note
+This is a modified version of the [Galah](https://github.com/0x4D31/galah?tab=readme-ov-file) open-source repository used for practice in CyberEurope 2024 between the University of Adelaide and Talinn University of Technology. Below is the readme file used by them.
+
 <img align="left" src="docs/images/galah.png" width="200px">
 
 TL;DR: Galah (/ɡəˈlɑː/ - pronounced ‘guh-laa’) is an LLM-powered web honeypot designed to mimic various applications and dynamically respond to arbitrary HTTP requests. Galah supports major LLM providers, including OpenAI, GoogleAI, GCP's Vertex AI, Anthropic, Cohere, and Ollama.
